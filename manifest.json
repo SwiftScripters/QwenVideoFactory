@@ -4,7 +4,7 @@
 	"short_name": "Qwen Video Factory",
 	"version": "0.1.0.0",
 	"minimum_chrome_version": "114",
-	"description": "Bulk prompt automation for chat.qwen.ai video generation. Queue prompts, generate in bulk, download the results.",
+	"description": "Bulk prompt automation for chat.qwen.ai video generation, with optional multi-account rotation past daily limits.",
 	"permissions": ["storage", "downloads", "sidePanel"],
 	"host_permissions": ["https://chat.qwen.ai/*"],
 	"background": {
