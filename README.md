@@ -94,6 +94,14 @@ node scripts/bump-version.js <major|minor|patch|build>
 
 Bumping a segment resets everything to its right to `0`.
 
+## Support
+
+If this extension is useful to you, you can support development here:
+
+- [GitHub Sponsors](https://github.com/sponsors/s4ndm4ndev)
+- [Patreon](https://www.patreon.com/c/s4ndm4ndev)
+- [Ko-fi](https://ko-fi.com/s4ndm4ndev)
+
 ## Known limitations
 
 - `performLogin()` has no CAPTCHA-detection logic — no CAPTCHA appeared
